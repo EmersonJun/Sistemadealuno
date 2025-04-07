@@ -1,0 +1,14 @@
+/Users/tiagopedra/Sistemadealuno/bin/Debug/net9.0/Sistemadealuno
+/Users/tiagopedra/Sistemadealuno/bin/Debug/net9.0/Sistemadealuno.deps.json
+/Users/tiagopedra/Sistemadealuno/bin/Debug/net9.0/Sistemadealuno.runtimeconfig.json
+/Users/tiagopedra/Sistemadealuno/bin/Debug/net9.0/Sistemadealuno.dll
+/Users/tiagopedra/Sistemadealuno/bin/Debug/net9.0/Sistemadealuno.pdb
+/Users/tiagopedra/Sistemadealuno/obj/Debug/net9.0/Sistemadealuno.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiagopedra/Sistemadealuno/obj/Debug/net9.0/Sistemadealuno.AssemblyInfoInputs.cache
+/Users/tiagopedra/Sistemadealuno/obj/Debug/net9.0/Sistemadealuno.AssemblyInfo.cs
+/Users/tiagopedra/Sistemadealuno/obj/Debug/net9.0/Sistemadealuno.csproj.CoreCompileInputs.cache
+/Users/tiagopedra/Sistemadealuno/obj/Debug/net9.0/Sistemadealuno.dll
+/Users/tiagopedra/Sistemadealuno/obj/Debug/net9.0/refint/Sistemadealuno.dll
+/Users/tiagopedra/Sistemadealuno/obj/Debug/net9.0/Sistemadealuno.pdb
+/Users/tiagopedra/Sistemadealuno/obj/Debug/net9.0/Sistemadealuno.genruntimeconfig.cache
+/Users/tiagopedra/Sistemadealuno/obj/Debug/net9.0/ref/Sistemadealuno.dll
