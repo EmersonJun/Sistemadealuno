@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/tiagopedra/.nuget/packages/": {}
+    "C:\\Users\\eminh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tiagopedra/Downloads/Sistemadealuno/Sistemadealuno.csproj",
+      "projectUniqueName": "C:\\Users\\eminh\\OneDrive\\Documentos\\vscode\\aula-de-C#\\EmersonJunior.positivo28\\1104\\Sistemadealuno\\Sistemadealuno.csproj",
       "projectName": "Sistemadealuno",
-      "projectPath": "/Users/tiagopedra/Downloads/Sistemadealuno/Sistemadealuno.csproj",
-      "packagesPath": "/Users/tiagopedra/.nuget/packages/",
-      "outputPath": "/Users/tiagopedra/Downloads/Sistemadealuno/obj/",
+      "projectPath": "C:\\Users\\eminh\\OneDrive\\Documentos\\vscode\\aula-de-C#\\EmersonJunior.positivo28\\1104\\Sistemadealuno\\Sistemadealuno.csproj",
+      "packagesPath": "C:\\Users\\eminh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eminh\\OneDrive\\Documentos\\vscode\\aula-de-C#\\EmersonJunior.positivo28\\1104\\Sistemadealuno\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/tiagopedra/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\eminh\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
